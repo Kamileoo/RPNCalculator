@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RPN - Calculator</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="look_header">Appearance</string>
+    <string name="numbers_header">Numbers</string>
+
+    <!--    Appearance-->
+    <string name="look_title">Choose color scheme</string>
+
+    <!--    Numbers-->
+    <string name="numbers_title">Choose round</string>
+    <string name="numbers_text">Choose round from 0 to 10</string>
+</resources>
