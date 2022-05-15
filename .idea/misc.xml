@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/drawable-anydpi/ic_appearance_icon.xml" value="0.306" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3905" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/drawable-xxhdpi/buton_shape_red.xml" value="0.4275" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/drawable/buton_shape.xml" value="0.4275" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/drawable/reddd.xml" value="0.4275" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/layout/activity_main.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/layout/activity_settings.xml" value="0.3109375" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/layout/settings_activity.xml" value="0.446875" />
+        <entry key="..\:/Users/ambro/AndroidStudioProjects/RPNCalculator/app/src/main/res/xml/root_preferences.xml" value="0.5142857142857143" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
